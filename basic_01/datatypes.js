@@ -6,6 +6,7 @@ let name = "sujeet";
 let city = "Delhi";
  let isfail = true;
  let x;
+ 
  let a = null;
 
 //alert("Hello!"); 
