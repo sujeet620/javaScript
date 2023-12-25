@@ -1,1 +1,4 @@
-console.log(2+2);
+let value = 2;
+let negvalue = -value;
+
+console.log(negvalue);
